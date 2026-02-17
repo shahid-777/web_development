@@ -1,0 +1,17 @@
+/* CSS File: style.css */
+.card {
+  border: 1px solid #ccc; /* Border */
+  padding: 20px;           /* Padding (Internal Space) */
+  margin: 10px;            /* Margin (External Space) */
+  text-align: center;
+  border-radius: 10px;
+  background-color: white; /* Initial Style */
+}
+
+/* Responsive Design for Mobile */
+@media (max-width: 480px) {
+  .card {
+    width: 90%; /* Mobile par chota ho jayega */
+    font-size: 14px;
+  }
+}
