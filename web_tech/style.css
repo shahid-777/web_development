@@ -1,0 +1,16 @@
+.menu{
+    display: flex;
+    
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    
+
+}
+.nv{
+    padding: 10px;
+    gap: 10%;
+}
+a{
+    padding: 10px;
+}
